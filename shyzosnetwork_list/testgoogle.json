@@ -1,8 +1,5 @@
 {
   "name": "Test Google",
-  "version": "1.0.0",
   "image": "https://github.com/ShyzosCorp/ShyzosNetworkCore/blob/main/shyzosnetwork_images/google-icon.png?raw=true",
-  "file": "https://google.com",
-  "store": "https://google.com",
-  "content": "https://google.com"
+  "url": "https://google.com"
 }
